@@ -1,4 +1,6 @@
 #猜錯的話 要告訴他 比答案大/小
+#印出猜了幾次
+#自行決定範圍
 
 import random #載入module
 start = input('請輸入範圍開始值: ')
